@@ -5,7 +5,7 @@
 # 最后修改时间：2023年4月7日21:36:04
 
 @tool
-extends "../GDEditor"
+extends 
 class_name MainScreenPlugin
 
 var _ui:Control
